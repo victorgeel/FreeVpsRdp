@@ -1,7 +1,7 @@
 ## FreeVpsRdp
 
 _____________
-### Play colab then just follow
+### Play colab then just follow manual 
 
 
 #### Ez
